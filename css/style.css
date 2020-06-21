@@ -1,0 +1,38 @@
+body{
+	height: 2000px;
+}
+.mydiv{
+	height: 638px;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+	margin-top: 10px;
+}
+.text-box{
+ width: 60%;
+ height: 100%;
+ mix-blend-mode: screen;
+ border-right: 200px solid ;
+ border-bottom: 700px solid white;
+ color: #000;
+}
+.text-box h1{
+ font-size: 80px;
+ line-height: 1.2em;
+ font-weight: 1000;
+ text-transform: uppercase;
+ font-family: 'Poppins', sans-serif;
+ text-align: center;
+ position: relative;
+ top: 140px;
+}
+.text-box pre{
+ position: relative;
+ text-align: center;
+ top: 205px;
+ font-size: 20px;
+ line-height: 1.2em;
+ font-weight: 700;
+ text-transform: uppercase;
+ font-family: 'Poppins', sans-serif;
+}
